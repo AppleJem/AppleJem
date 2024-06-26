@@ -7,7 +7,9 @@ Here are some ideas to get you started:
 
 -->
 ```yaml
-I'm Jem, a software engineer with experience in frontend, backend, and devops. I'm passionate in edTech and music (jazz/classical), and I'm currently working on my own startup funded by NUS!
+I'm Jem, a software engineer with experience in frontend, backend, and devops.
+I'm passionate in edTech and music (jazz/classical),
+and I'm currently working on my own startup funded by NUS!
 ```
 
 <a href="https://www.linkedin.com/in/jemzhang/">
