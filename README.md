@@ -44,3 +44,6 @@ and I'm currently working on my own startup funded by NUS!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" />
           
 </p>
+
+
+[![Top Langs](https://github-readme-stats-beta-six-35.vercel.app/api/top-langs/?username=AppleJem)](https://github.com/anuraghazra/github-readme-stats)
