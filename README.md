@@ -14,4 +14,10 @@ I'm Jem, a software engineer with experience in frontend, backend, and devops. I
 </a>
 
 
-#### 🚀Some Tools that I've learned
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" height="45"/>
+          
+</p>
